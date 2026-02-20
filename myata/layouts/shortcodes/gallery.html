@@ -19,7 +19,7 @@
     {{- end -}}
     <button class="myata-gallery__item{{ $sizeClass }}" type="button" data-full="{{ $src | relURL }}" data-alt="{{ $alt }}" data-type="{{ if $isVideo }}video{{ else }}image{{ end }}">
       {{- if $isVideo -}}
-        <video muted playsinline preload="metadata" src="{{ $src | relURL }}"></video>
+        <video muted playsinline preload="metadata" src="{{ $src | relURL }}#t=0.001"></video>
         <span class="myata-gallery__play" aria-hidden="true"></span>
       {{- else -}}
         <img src="{{ $src | relURL }}" alt="{{ $alt }}" loading="lazy">
