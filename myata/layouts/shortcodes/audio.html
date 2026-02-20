@@ -1,0 +1,3 @@
+{{- $src := .Get "src" -}}
+{{- $preload := default "metadata" (.Get "preload") -}}
+<audio controls preload="{{ $preload }}" src="{{ $src | relURL }}" style="width: 100%;"></audio>

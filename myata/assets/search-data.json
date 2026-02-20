@@ -1,0 +1,15 @@
+[
+{{- $pages := where .Site.Pages "Kind" "in" (slice "home" "page" "section") -}}
+{{- $pages = where $pages "Params.bookSearchExclude" "!=" true -}}
+{{- $pages = where $pages "Content" "!=" "" -}}
+
+{{ range $index, $page := $pages }}
+{{ if gt $index 0}},{{end}} {
+    "id": {{ $index }},
+    "href": "{{ $page.RelPermalink }}",
+    "title": {{ (partial "docs/title" $page) | jsonify }},
+    "section": {{ with $page.Parent }}{{ (partial "docs/title" .) | jsonify }}{{ else }}{{ $.Site.Title | jsonify }}{{ end }},
+    "content": {{ $page.Plain | jsonify }}
+}
+{{- end -}}
+]

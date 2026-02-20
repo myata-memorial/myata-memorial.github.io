@@ -1,0 +1,61 @@
+<div id="myata-lightbox" class="myata-lightbox" aria-hidden="true">
+  <button class="myata-lightbox__close" type="button" aria-label="Close">×</button>
+  <img class="myata-lightbox__img" src="" alt="">
+  <video class="myata-lightbox__video" controls playsinline preload="metadata" hidden></video>
+</div>
+
+<script>
+  (function () {
+    const lightbox = document.getElementById('myata-lightbox');
+    if (!lightbox) return;
+
+    const image = lightbox.querySelector('.myata-lightbox__img');
+    const closeButton = lightbox.querySelector('.myata-lightbox__close');
+    const video = lightbox.querySelector('.myata-lightbox__video');
+
+    function openLightbox(src, alt, type) {
+      const isVideo = type === 'video';
+      image.hidden = isVideo;
+      video.hidden = !isVideo;
+
+      if (isVideo) {
+        video.src = src;
+        video.setAttribute('aria-label', alt || '');
+      } else {
+        image.src = src;
+        image.alt = alt || '';
+      }
+      lightbox.classList.add('is-open');
+      lightbox.setAttribute('aria-hidden', 'false');
+      document.body.style.overflow = 'hidden';
+    }
+
+    function closeLightbox() {
+      lightbox.classList.remove('is-open');
+      lightbox.setAttribute('aria-hidden', 'true');
+      image.src = '';
+      video.pause();
+      video.removeAttribute('src');
+      video.load();
+      document.body.style.overflow = '';
+    }
+
+    document.addEventListener('click', function (event) {
+      const trigger = event.target.closest('.myata-gallery__item');
+      if (trigger) {
+        openLightbox(trigger.dataset.full, trigger.dataset.alt, trigger.dataset.type || 'image');
+        return;
+      }
+
+      if (event.target === lightbox || event.target === closeButton) {
+        closeLightbox();
+      }
+    });
+
+    document.addEventListener('keydown', function (event) {
+      if (event.key === 'Escape' && lightbox.classList.contains('is-open')) {
+        closeLightbox();
+      }
+    });
+  })();
+</script>

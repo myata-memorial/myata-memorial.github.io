@@ -1,0 +1,32 @@
+{{- $galleryId := printf "gallery-%d" now.UnixNano -}}
+<div class="myata-gallery" data-gallery-id="{{ $galleryId }}">
+  {{- range $item := .Params -}}
+    {{- $parts := split (printf "%v" $item) "|" -}}
+    {{- $src := index $parts 0 -}}
+    {{- $alt := "" -}}
+    {{- if gt (len $parts) 1 -}}
+      {{- $alt = index $parts 1 -}}
+    {{- end -}}
+    {{- $size := "" -}}
+    {{- if gt (len $parts) 2 -}}
+      {{- $size = index $parts 2 -}}
+    {{- end -}}
+    {{- $ext := lower (path.Ext $src) -}}
+    {{- $isVideo := in (slice ".mp4" ".mov" ".m4v" ".avi" ".mkv" ".webm") $ext -}}
+    {{- $sizeClass := "" -}}
+    {{- if eq $size "wide" -}}{{- $sizeClass = " myata-gallery__item--wide" -}}
+    {{- else if eq $size "auto" -}}{{- $sizeClass = " myata-gallery__item--auto" -}}
+    {{- end -}}
+    <button class="myata-gallery__item{{ $sizeClass }}" type="button" data-full="{{ $src | relURL }}" data-alt="{{ $alt }}" data-type="{{ if $isVideo }}video{{ else }}image{{ end }}">
+      {{- if $isVideo -}}
+        <video muted playsinline preload="metadata" src="{{ $src | relURL }}"></video>
+        <span class="myata-gallery__play" aria-hidden="true"></span>
+      {{- else -}}
+        <img src="{{ $src | relURL }}" alt="{{ $alt }}" loading="lazy">
+      {{- end -}}
+      {{- if $alt -}}
+        <span class="myata-gallery__caption">{{ $alt }}</span>
+      {{- end -}}
+    </button>
+  {{- end -}}
+</div>

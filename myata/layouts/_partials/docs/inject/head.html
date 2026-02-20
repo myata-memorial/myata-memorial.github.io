@@ -1,0 +1,138 @@
+<style>
+  .myata-gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 0.75rem;
+    margin: 1rem 0 1.25rem;
+  }
+
+  .myata-gallery__item {
+    border: 0;
+    background: transparent;
+    padding: 0;
+    cursor: pointer;
+    line-height: 0;
+    position: relative;
+  }
+
+  .myata-gallery__item img {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    border-radius: 8px;
+  }
+
+  .myata-gallery__item video {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    border-radius: 8px;
+    display: block;
+    background: #000;
+  }
+
+  /* wide: spans full grid width, natural aspect ratio */
+  .myata-gallery__item--wide {
+    grid-column: 1 / -1;
+  }
+  .myata-gallery__item--wide img,
+  .myata-gallery__item--wide video {
+    aspect-ratio: auto;
+    object-fit: contain;
+  }
+
+  /* auto: stays in grid cell, but natural aspect ratio (no square crop) */
+  .myata-gallery__item--auto img,
+  .myata-gallery__item--auto video {
+    aspect-ratio: auto;
+    object-fit: cover;
+  }
+
+  .myata-gallery__play {
+    position: absolute;
+    inset: 0;
+    display: grid;
+    place-items: center;
+    pointer-events: none;
+  }
+
+  .myata-gallery__play::before {
+    content: "";
+    width: 44px;
+    height: 44px;
+    border-radius: 999px;
+    background: rgba(0, 0, 0, 0.6);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.35);
+  }
+
+  .myata-gallery__play::after {
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-left: 14px solid #fff;
+    border-top: 9px solid transparent;
+    border-bottom: 9px solid transparent;
+    transform: translateX(2px);
+  }
+
+  .myata-gallery__caption {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 0.3em 0.4em;
+    background: rgba(0, 0, 0, 0.55);
+    color: #fff;
+    font-size: 0.7em;
+    line-height: 1.2;
+    text-align: center;
+    border-radius: 0 0 8px 8px;
+    pointer-events: none;
+  }
+
+  .myata-lightbox {
+    position: fixed;
+    inset: 0;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    background: rgba(0, 0, 0, 0.78);
+    z-index: 1000;
+    padding: 1rem;
+  }
+
+  .myata-lightbox.is-open {
+    display: flex;
+  }
+
+  .myata-lightbox__img {
+    max-width: min(96vw, 1400px);
+    max-height: 90vh;
+    object-fit: contain;
+    border-radius: 8px;
+  }
+
+  .myata-lightbox__video {
+    max-width: min(96vw, 1400px);
+    max-height: 90vh;
+    width: auto;
+    height: auto;
+    border-radius: 8px;
+    background: #000;
+  }
+
+  .myata-lightbox__close {
+    position: fixed;
+    top: 12px;
+    right: 16px;
+    border: 0;
+    background: transparent;
+    color: #fff;
+    font-size: 2rem;
+    line-height: 1;
+    cursor: pointer;
+  }
+</style>

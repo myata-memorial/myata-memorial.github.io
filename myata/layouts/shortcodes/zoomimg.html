@@ -1,0 +1,6 @@
+{{- $src := .Get "src" -}}
+{{- $alt := default "" (.Get "alt") -}}
+{{- $width := .Get "width" -}}
+<a href="{{ $src | relURL }}" target="_blank" rel="noopener">
+  <img src="{{ $src | relURL }}" alt="{{ $alt }}"{{ with $width }} width="{{ . }}"{{ end }}>
+</a>

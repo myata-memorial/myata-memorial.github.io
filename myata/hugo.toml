@@ -1,0 +1,41 @@
+baseURL = 'https://example.org/'
+languageCode = 'ru'
+defaultContentLanguage = 'ru'
+defaultContentLanguageInSubdir = false
+title = 'Мята'
+theme = 'book'
+publishDir = '../docs'
+
+[languages]
+	[languages.ru]
+		languageName = 'Русский'
+		languageCode = 'ru-RU'
+		weight = 1
+		title = 'Мята'
+
+	[languages.en]
+		languageName = 'English'
+		languageCode = 'en-US'
+		weight = 2
+		title = 'Myata'
+
+[markup]
+	[markup.goldmark]
+		[markup.goldmark.renderer]
+			unsafe = false
+
+[params]
+	BookSearch = false
+	BookToC = false
+
+[[menu.before]]
+	identifier = 'sections'
+	name = 'Навигация'
+	url = '/'
+	weight = 1
+
+[[menu.before]]
+	name = 'Новая жизнь'
+	url = '/#новая-жизнь'
+	weight = 11
+	parent = 'sections'
