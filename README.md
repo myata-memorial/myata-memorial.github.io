@@ -8,3 +8,5 @@ hugo -s myata serve -d public --baseURL http://127.0.0.1:1313/
 ```sh
 hugo -s myata --minify
 ```
+## Сайт
+[https://myata-memorial.github.io](myata-memorial.github.io)
