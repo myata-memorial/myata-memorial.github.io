@@ -1,3 +1,6 @@
+:root {
+  --font-size: 18px;
+}
 
 .book-page {
   max-width: 50rem;
@@ -34,6 +37,69 @@ article{
 .book-languages-inline .book-language-separator {
   margin: 0 0.35rem;
   color: var(--gray-500);
+}
+
+/* Emoji toggle (below language switcher) */
+.emoji-toggle {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  margin: 0.25rem 0;
+}
+
+.emoji-toggle__info {
+  font-size: var(--font-size-smaller);
+  color: var(--gray-500);
+}
+
+body.emoji-hidden .emoji-toggle__icon {
+  filter: saturate(0);
+  // background: red;
+}
+
+.emoji-toggle__icon {
+  line-height: 0;
+}
+
+.emoji-toggle__slider {
+  position: relative;
+  display: inline-block;
+  width: 36px;
+  height: 20px;
+  border-radius: 10px;
+  background: var(--gray-500);
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.emoji-toggle__slider::after {
+  content: '';
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: white;
+  transition: transform 0.2s;
+}
+
+.emoji-toggle__slider.active {
+  background: var(--color-link);
+}
+
+.emoji-toggle__slider.active::after {
+  transform: translateX(16px);
+}
+
+/* Hide emoji when toggled off */
+body.emoji-hidden .emoji {
+  display: none !important;
+}
+
+/* Keep emoji visible inside the toggle control */
+body.emoji-hidden .emoji-toggle .emoji {
+  display: inline !important;
 }
 
 @media screen and (max-width: 56rem) {

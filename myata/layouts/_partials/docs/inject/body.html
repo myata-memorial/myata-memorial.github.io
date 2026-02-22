@@ -59,3 +59,85 @@
     });
   })();
 </script>
+
+<script>
+  (function () {
+    // Auto-wrap all emoji characters in <span class="emoji">
+    const emojiRegex = /(?:\p{Emoji_Presentation}|\p{Emoji}\uFE0F)(?:\u200D(?:\p{Emoji_Presentation}|\p{Emoji}\uFE0F))*/gu;
+
+    function wrapEmoji(node) {
+      if (node.nodeType === Node.TEXT_NODE) {
+        // Skip emoji inside the toggle control
+        if (node.parentNode && node.parentNode.closest && node.parentNode.closest('.emoji-toggle')) return;
+
+        const text = node.textContent;
+        if (!emojiRegex.test(text)) return;
+        emojiRegex.lastIndex = 0;
+
+        const frag = document.createDocumentFragment();
+        let lastIndex = 0;
+        let match;
+        while ((match = emojiRegex.exec(text)) !== null) {
+          if (match.index > lastIndex) {
+            frag.appendChild(document.createTextNode(text.slice(lastIndex, match.index)));
+          }
+          const span = document.createElement('span');
+          span.className = 'emoji';
+          span.textContent = match[0];
+          frag.appendChild(span);
+          lastIndex = emojiRegex.lastIndex;
+        }
+        if (lastIndex < text.length) {
+          frag.appendChild(document.createTextNode(text.slice(lastIndex)));
+        }
+        node.parentNode.replaceChild(frag, node);
+      } else if (node.nodeType === Node.ELEMENT_NODE) {
+        // Skip script, style, already-wrapped emoji spans, and the toggle itself
+        const tag = node.tagName.toLowerCase();
+        if (tag === 'script' || tag === 'style' || tag === 'textarea' || tag === 'code') return;
+        if (node.classList.contains('emoji') || node.closest('.emoji-toggle')) return;
+        // Iterate over a static copy since we modify the DOM
+        Array.from(node.childNodes).forEach(wrapEmoji);
+      }
+    }
+
+    const content = document.querySelector('.book-page') || document.body;
+    wrapEmoji(content);
+  })();
+</script>
+
+<script>
+  (function () {
+    const STORAGE_KEY = 'emoji-visible';
+    const slider = document.getElementById('emoji-switch');
+    if (!slider) return;
+
+    function setEmoji(visible) {
+      if (visible) {
+        document.body.classList.remove('emoji-hidden');
+        slider.classList.add('active');
+        slider.setAttribute('aria-checked', 'true');
+      } else {
+        document.body.classList.add('emoji-hidden');
+        slider.classList.remove('active');
+        slider.setAttribute('aria-checked', 'false');
+      }
+      localStorage.setItem(STORAGE_KEY, String(visible));
+    }
+
+    // Restore saved preference (default: visible)
+    var saved = localStorage.getItem(STORAGE_KEY);
+    setEmoji(saved !== 'false');
+
+    slider.addEventListener('click', function () {
+      setEmoji(!slider.classList.contains('active'));
+    });
+
+    slider.addEventListener('keydown', function (e) {
+      if (e.key === 'Enter' || e.key === ' ') {
+        e.preventDefault();
+        setEmoji(!slider.classList.contains('active'));
+      }
+    });
+  })();
+</script>
