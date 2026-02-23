@@ -78,14 +78,65 @@
         let lastIndex = 0;
         let match;
         while ((match = emojiRegex.exec(text)) !== null) {
-          if (match.index > lastIndex) {
-            frag.appendChild(document.createTextNode(text.slice(lastIndex, match.index)));
+          // Slice of text before the emoji
+          let pre = text.slice(lastIndex, match.index);
+          const postIndex = emojiRegex.lastIndex;
+          const nextChar = postIndex < text.length ? text.charAt(postIndex) : '';
+
+          // If there is whitespace both before and after the emoji, drop the trailing
+          // whitespace from the `pre` slice so we keep only a single space outside
+          // the emoji span. This prevents leaving two spaces when the emoji is hidden.
+          if (pre.length > 0 && /\s/.test(pre.charAt(pre.length - 1)) && /\s/.test(nextChar)) {
+            pre = pre.slice(0, -1);
+          } else if (pre === '' && /\s/.test(nextChar)) {
+            // Emoji is at the start of this text node and followed by whitespace.
+            // Consume the following whitespace so hiding the emoji doesn't leave a
+            // leading space at the start of the node.
+            // Advance `lastIndex` to skip that space after creating the span below.
+            // We use a flag to bump lastIndex after appending the span.
+            // (handled by setting lastIndex later)
+            // mark by setting a temporary flag variable
+            // (we'll adjust lastIndex after creating the span)
+            // nothing to change in `pre` here because it's empty
+            // store that we should skip the next char by setting a negative marker
+            // (we'll check postIndex in assignment below)
+            ;
           }
+
+          if (pre.length > 0) {
+            frag.appendChild(document.createTextNode(pre));
+          }
+
+          // Prepare span content. We may need to move a surrounding space into
+          // the span so that the visible text remains identical, while hiding
+          // the span later leaves at most one space.
+          let spanText = match[0];
+
+          // If there is whitespace both before and after the emoji, remove the
+          // trailing whitespace from `pre` (we already did) and instead prefix
+          // the emoji with a space inside the span so the visible text keeps
+          // the left-side space, but hiding the span removes that space.
+          if (pre.length > 0 && /\s/.test(text.charAt(match.index - 1)) && /\s/.test(nextChar)) {
+            // remove last char from the already-trimmed `pre` (was done above)
+            // and add a leading space into the span content
+            spanText = ' ' + match[0];
+          }
+
+          // If emoji is at the start of the node and followed by whitespace,
+          // consume that following whitespace and attach it to the span so the
+          // visible text keeps the space after the emoji but hiding removes it.
+          if (match.index === 0 && /\s/.test(nextChar)) {
+            spanText = match[0] + ' ';
+            // skip consumed whitespace
+            lastIndex = postIndex + 1;
+          } else {
+            lastIndex = postIndex;
+          }
+
           const span = document.createElement('span');
           span.className = 'emoji';
-          span.textContent = match[0];
+          span.textContent = spanText;
           frag.appendChild(span);
-          lastIndex = emojiRegex.lastIndex;
         }
         if (lastIndex < text.length) {
           frag.appendChild(document.createTextNode(text.slice(lastIndex)));

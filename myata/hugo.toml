@@ -19,6 +19,12 @@ publishDir = '../docs'
 		weight = 2
 		title = 'Myata'
 
+	[languages.ka]
+		languageName = 'ქართული'
+		languageCode = 'ka-GE'
+		weight = 3
+		title = 'მიატა'
+
 [markup]
 	[markup.goldmark]
 		[markup.goldmark.renderer]
