@@ -135,7 +135,10 @@ nav#TableOfContents ul a{
 nav#TableOfContents ul a:hover{
   opacity: 1;
 }
-nav#TableOfContents ul a:hover::after {
+
+
+
+nav#TableOfContents ul a[data-active="true"]::after, nav#TableOfContents ul a:hover::after {
   content: "🐾";
   display: inline-block;
 }

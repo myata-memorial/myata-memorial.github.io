@@ -191,4 +191,32 @@
       }
     });
   })();
+  
+(function () {
+  function updateAnchorState() {
+    const currentHash = decodeURIComponent(location.hash);
+    const links = document.querySelectorAll('a[href^="#"]');
+
+    links.forEach(link => {
+      const href = link.getAttribute('href');
+
+      if (!href || href === '#') {
+        link.removeAttribute('data-active');
+        return;
+      }
+
+      if (decodeURIComponent(href) === currentHash) {
+        link.setAttribute('data-active', 'true');
+      } else {
+        link.removeAttribute('data-active');
+      }
+    });
+  }
+
+  // при загрузке
+  window.addEventListener('DOMContentLoaded', updateAnchorState);
+
+  // при изменении hash
+  window.addEventListener('hashchange', updateAnchorState);
+})();
 </script>
