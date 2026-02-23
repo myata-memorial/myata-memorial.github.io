@@ -24,6 +24,7 @@ This new life is what I want to tell you about on this page.
     "/images/2022-01-06-1.jpg|Myata 💚"
 >}}
 ## Introduction
+
 ### 02.08.2020
 
 August. City of Novosibirsk, Akademgorodok.
@@ -43,6 +44,7 @@ These are my first awkward photos before I found my new family:
     "/images/2020-08-02-2.jpg|Myata near the entrance, 02.08.2020" 
     "/images/2020-08-02-3.jpg|Myata near the entrance, 02.08.2020" 
 >}}
+
 ### 03.08.2020
 
 Guys, of course, fed me. It was Shurfik's food. They even made me a little bed.
@@ -55,6 +57,7 @@ These are some of my first photos at the guys' home:
     "/images/2020-08-03-1.jpg|Myata settled on the bed, 03.08.2020"
     "/images/2020-08-03-2.jpg|Myata took a liking to the little bed, 03.08.2020" 
 >}}
+
 ### 08.08.2020
 
 I am a beautiful kitty, but my previous guardians apparently did not look for me. This hurt my self-esteem a bit.
@@ -75,6 +78,7 @@ I didn't need to be sterilized; I was already sterilized. The mark on one of my 
     "/videos/2020-08-08-1.mp4|Myata in a soft carrier, 08.08.2020" 
 >}}
 ## Akademgorodok
+
 ### 04.12.2020
 
 My cat-like essence demands certain rituals from me. For example, I am forced to sharpen my claws. And so that I don't accidentally fall in love with doing this on the furniture, the guys provided me with a scratching post.
@@ -86,6 +90,7 @@ It was a terrible scratching post. It was very unstable. A little later, I was a
     "/images/2020-12-04-2.jpg|Myata checks the scratching post, 04.12.2020"
     "/images/2020-12-04-3.jpg|Myata is deep in thought, 04.12.2020" 
 >}}
+
 ### 05.01.2021
 
 Time passed. And here I am in the new 2021 year. The guys celebrated it at a vegan table in a very small circle. And for several days in a row, I portrayed a little gift.
@@ -99,6 +104,7 @@ Time passed. And here I am in the new 2021 year. The guys celebrated it at a veg
 {{< gallery 
     "/images/2021-01-05-4.jpg|Myata on the blanket, 05.01.2021"
 >}}
+
 ### 08.01.2021
 
 It was the time of the raging COVID-19, but personally, I was happy.
@@ -108,6 +114,7 @@ I was almost never left home alone because everyone was staying at home. I liked
 {{< gallery 
     "/images/2021-01-08-1.jpg|Myata fell asleep on the edge, 08.01.2021"
 >}}
+
 ### 14.03.2021
 
 My tummy has never been petted so often. And even though I never allowed anyone to hold me in their arms, I really loved affection. Even if you came to visit, I would let you cuddle me. The main thing is, don't pick me up.
@@ -115,6 +122,7 @@ My tummy has never been petted so often. And even though I never allowed anyone 
 {{< gallery 
     "/images/2021-03-14-1.jpg|Myata and tummy, 14.03.2021"
 >}}
+
 ### 03.04.2021
 
 I hinted to the guys that I love drinking tap water, and they bought me a modern automatic water dispenser. I don't like standing water in a bowl. I prefer to eat from a bowl.
@@ -122,15 +130,17 @@ I hinted to the guys that I love drinking tap water, and they bought me a modern
 {{< gallery 
     "/videos/2021-04-03-1.mp4|Myata is eating, 03.04.2021" 
 >}}
+
 ### 25.04.2021
 
 I play with different toys. I love to knock pens off the table, I love all sorts of homemade strange things that Sasha constantly builds.
 
-And that old clumsy sharpener has been slightly modified. It was tied to the bed. This made it a bit more useful than before, but only for a short time.
+And that old clumsy cat scratcher has been slightly modified. It was tied to the bed. This made it a bit more useful than before, but only for a short time.
 
 {{< gallery 
     "/videos/2021-04-25-1.mp4|Myata is playing, 25.04.2021" 
 >}}
+
 ### 07.05.2021
 
 Sasha is working, Vita is drawing. I'm just resting. Time flies quickly.
@@ -140,16 +150,17 @@ That year I had few photos. But I managed to find something. Here, for example, 
 {{< gallery 
     "/images/2021-05-07-1.jpg|Myata is sleeping on the boombox, 07.05.2021"
 >}}
+
 ### 15.12.2021
 
 To keep an eye on me, Sasha installed a special video camera in the house. It could record both day and night. And if the guys were away, they could always check how I was doing.
 
 But there are also downsides to such control. For example, I was caught at night eating.
 
-
 {{< gallery 
     "/images/2021-12-15-1.jpg|Myata — inferno, 15.12.2021"
 >}}
+
 ### 26.12.2021
 
 Overall, I am an advanced kitty and I approve of new technologies. But I still haven't decided how to feel about these cameras. On one hand — safety, cool, on the other — violation of privacy.
@@ -159,6 +170,7 @@ Judge for yourself: you decide to wash your little butt, and you'll be captured 
 {{< gallery 
     "/videos/2021-12-26-1.mp4|Myata jumping, 26.12.2021" 
 >}}
+
 ### 08.01.2022
 
 The year 2021 has come to an end. The guys certainly celebrated it. I won’t overload you with content, but I’ll tell you that I celebrated it without them. Sasha and Vita went to the village, and I was given a nanny. She came to feed me and play with me. But on New Year's Eve, of course, no one stayed with me. I just slept under the sounds of fireworks.
@@ -168,6 +180,7 @@ But now it's already 2022. In a way, I burst into it on all four of my paws! It'
 {{< gallery 
     "/images/2022-01-08-1.jpg|Myata takes a selfie, 08.01.2022"
 >}}
+
 ### 30.01.2022
 
 Once, Vita brought home a broken old chair from the street and fixed it. She painted it and replaced the fabric. The chair, as you can see, became designer. I couldn't miss such an opportunity and took a photo for memory.
@@ -179,6 +192,7 @@ On my face, there is serenity.
 {{< gallery 
     "/images/2022-01-30-1.jpg|Myata and the designer chair, 30.01.2022"
 >}}
+
 ### 24.02.2022
 
 Closed doors are very bad. Doors should always be open. Rarely, but I managed to get someone to let me into the entrance of the building. I wanted all the doors in this world to be open, but alas, I returned home unsuccessful.
@@ -191,6 +205,7 @@ I haven't told you yet, but during the first years of my life with the guys, I h
     "/videos/2022-02-24-1.mp4|Myata on the stairs, 24.02.2022" 
 >}}
 ## Emigration
+
 ### 21.03.2022
 
 Sasha stopped feeling safe due to the arbitrariness of the Russian authorities and changes in society. He decided to move abroad and take all of us with him. Me and Vita. He absolutely did not want to leave us behind.
@@ -200,6 +215,7 @@ In connection with the planned departure, the guys began to sell their belonging
 {{< gallery 
     "/videos/2022-03-21-1.mp4|Myata plays with earplugs, 21.03.2022" 
 >}}
+
 ### 03.04.2022
 
 I got all the necessary vaccinations and a passport. A couple of days before the flight, the veterinary clinic issued me a special certificate that allowed me to pass all customs and proceed to my destination.
@@ -211,6 +227,7 @@ So it wasn't easy, but we managed. In this photo, I'm in the carrier that was bo
 {{< gallery 
     "/images/2022-04-03-1.jpg|Myata with the bureaucrats, 03.04.2022"
 >}}
+
 ### 05.04.2022
 
 So I found myself abroad for the first time. First, we flew to Tashkent. I am very glad that I was allowed into the cabin of the plane. And although I didn't really enjoy the flight, I am very grateful to the flight attendant for offering to sit separately, where there was plenty of space for both me and the guys. It was "Uzbekistan Airways."
@@ -227,6 +244,7 @@ We will spend very little time in Tashkent and will fly further. It seems the gu
     "/images/2022-04-05-3.jpg|Myata dissatisfied with captivity, 05.04.2022" 
 >}}
 ## Arrival
+
 ### 08.04.2022
 
 From Tashkent, we flew to Tbilisi. This is a city where we will live for a long time.
@@ -237,6 +255,7 @@ If only you knew how happy I was to be in the hotel after these flights. But the
     "/images/2022-04-08-1.jpg|Myata settled in beautifully, 08.04.2022" 
     "/videos/2022-04-08-1.mp4|Myata is getting her tummy rubbed, 08.04.2022" 
 >}}
+
 ### 14.05.2022
 
 As soon as we found a new apartment, we didn't even have time to live there before we went to Batumi. Our friends invited us over, and since there was no one to leave me with for now, our whole friendly family set off again.
@@ -259,6 +278,7 @@ Then, of course, we returned to Tbilisi.
 >}}
 
 ## Lisi
+
 ### 10.06.2022
 
 It was nice and spacious in the new house in Tbilisi. I liked running around there. Nearby was Lake Lisi. The guys sometimes went there for walks.
@@ -269,6 +289,7 @@ I was still given a lot of attention and cuddled. I have very good memories of t
     "/videos/2022-06-10-1.mp4|Myata plays with a chain, 10.06.2022" 
     "/videos/2022-06-10-2.mp4|Myata gets her belly rubbed, 10.06.2022" 
 >}} 
+
 ### 04.07.2022
 
 Once I thought about the journey I had taken, and it left me disheartened. Could a little Siberian cat have imagined that she would live in sunny Georgia?
@@ -276,6 +297,7 @@ Once I thought about the journey I had taken, and it left me disheartened. Could
 {{< gallery 
     "/videos/2022-07-04-1.mp4|Myata in a daze, 04.07.2022" 
 >}} 
+
 ### 28.07.2022
 
 But life went on, and I was watching my figure. I always eat in moderation and never overeat. I eat little by little, but many times a day.
@@ -285,6 +307,7 @@ But life went on, and I was watching my figure. I always eat in moderation and n
     "/images/2022-07-28-2.jpg|Weight of Myata, 28.07.2022" 
 >}} 
 ## Mtskheta str.
+
 ### 17.09.2022
 
 A little later we moved to a new home, where there was a fireplace and a small yard!
@@ -294,6 +317,7 @@ And although the interior was not very modern, I could really pick up speed when
 {{< gallery 
     "/images/2022-09-17-1.jpg|Myata between Sasha and the fireplace,  17.09.2022" 
 >}} 
+
 ### 10.10.2022
 
 Did I miss life in Russia? No, but I was worried that my favorite people had left their past life. Perhaps it was just starting to get better for them there.
@@ -302,6 +326,7 @@ Did I miss life in Russia? No, but I was worried that my favorite people had lef
     "/images/2022-10-10-1.jpg|Myata and TEDx notebook, 10.10.2022" 
     "/videos/2022-10-10-1.mp4|Myata and brush, 10.10.2022" 
 >}} 
+
 ### 11.11.2022
 
 I have already told you that it's better not to pick me up. And that's true. But sometimes I make an exception and come to sit on laps myself. I only started doing this in Georgia. I didn't do it before.
@@ -310,6 +335,7 @@ I have already told you that it's better not to pick me up. And that's true. But
     "/images/2022-11-11-1.jpg|Myata on Vita's lap, 11.11.2022" 
     "/images/2022-12-23-1.jpg|Myata and bokeh, 23.12.2022" 
 >}} 
+
 ### 06.01.2023
 
 Look at me, what a beauty I am.
@@ -321,6 +347,7 @@ Meanwhile, we have crossed the threshold of the new year. It's already 2023.
 {{< gallery 
     "/images/2022-01-06-1.jpg|Myata is a beauty – 100% true, 06.01.2023" 
 >}}
+
 ### 09.01.2023
 
 One could not rest on their laurels. Sasha worked a lot, and I helped him as much as I could. I often came to him and sat on the table to the right. It seems he liked it. I purred and supported him. Then he fed me.
@@ -332,6 +359,7 @@ And here I am sitting not on the table. But I still support him a lot.
     "/videos/2023-01-09-1.mp4|Myata hangs out near working Sasha, 09.01.2023" 
     "/images/2023-01-13-1.jpg|Myata portrait, 13.01.2023" 
 >}}
+
 ### 17.02.2023
 
 Despite the political situation and the ongoing war, I felt quite comfortable with the guys. Sasha continued to make me various strange toys that I could play with. And it always made me happy.
@@ -339,6 +367,7 @@ Despite the political situation and the ongoing war, I felt quite comfortable wi
 {{< gallery 
     "/videos/2023-02-17-1.mp4|Myata walks on her hind legs, 17.02.2023" 
 >}}
+
 ### 26.02.2023
 
 A couple of times I got sick, and we went to the veterinarians. I don't like going to the doctors, but during those two times they helped me a lot, and I am glad.
@@ -348,6 +377,7 @@ Any trip is a big stress for me. Just look at these worried eyes.
 {{< gallery 
     "/images/2023-02-26-1.jpg|Myata in a taxi, 26.02.2023" 
 >}}
+
 ### 01.03.2023
 
 Meet Yulia! She was taking care of me while the guys went on vacation.
@@ -360,6 +390,7 @@ Yulia is great, and I felt comfortable with her. Thanks to her, the guys were ab
     "/images/2023-03-01-1.jpg|Myata is indignant in Yulia's arms, 01.03.2023" 
     "/images/2023-03-11-1.jpg|Myata and Yulia send greetings to the guys, 11.03.2023" 
 >}}
+
 ### 22.04.2023
 
 Remember, I mentioned the courtyard. Well, there were actually two of them. In one, a thrush chick once lived, and in the other, stray cats would come by. I shared my food with the kitties.
@@ -372,6 +403,7 @@ Looking out the window is one of my favorite hobbies. There's always something w
     "/images/2023-04-22-3.jpg|Sasha and the cat, 22.04.2023" 
     "/images/2023-05-04-1.jpg|Myata is watching, 04.05.2023" 
 >}}
+
 ### 16.05.2023
 
 After all, it's nice to just lie on the windowsill.
@@ -379,6 +411,7 @@ After all, it's nice to just lie on the windowsill.
 {{< gallery 
     "/images/2023-05-16-1.jpg|Myata on the windowsill, 16.05.2023" 
 >}}
+
 ### 24.05.2023
 
 In addition to my window hobby, I engage in backyard hiking. For this, I have a special harness so I don't get lost again. I enjoy walking, but only if it's a calm and quiet place. Otherwise, I get scared of everything.
@@ -390,6 +423,7 @@ There are many interesting smells outside. I love to explore them all.
     "/videos/2023-05-24-1.mp4|Myata is sniffing, 24.05.2023" 
 >}}
 ## Fleas
+
 ### 06.09.2023
 
 While walking in the yard, where sometimes stray cats roam, I picked up my first fleas.
@@ -403,6 +437,7 @@ In the video, I still have fleas. And in the photo — I'm already without fleas
     "/images/2023-09-14-1.jpg|Myata without fleas, 14.09.2023" 
 >}}
 ## Cholecystitis
+
 ### 29.09.2023
 
 And even though I always ate properly and led an active lifestyle, I still developed gallstones.
@@ -413,6 +448,7 @@ This seems to be my very first serious visit to the clinic. I had no appetite at
     "/images/2023-09-29-1.jpg|Myata on the IV drip, 29.09.2023" 
     "/images/2023-09-29-2.jpg|Myata after the IV drip, 29.09.2023" 
 >}}
+
 ### 03.10.2023
 
 I can imagine how the guys felt spending several days driving with me to the clinic and sitting there for almost an hour each time. I'm sure they are not thrilled about these trips either.
@@ -423,6 +459,7 @@ This went on for some time. Sasha learned to give me injections at home for my s
     "/images/2023-09-30-1.jpg|Myata is being treated, 30.09.2023" 
     "/images/2023-10-03-1.jpg|Myata is tired of being treated, 03.10.2023" 
 >}}
+
 ### 18.11.2023
 
 But I have no reason to complain. They treated my cholecystitis, changed my food, and I started goofing around again.
@@ -431,6 +468,7 @@ But I have no reason to complain. They treated my cholecystitis, changed my food
     "/videos/2023-11-18-1.mp4|Myata is chubby, 18.11.2023" 
 >}}
 ## Didi Digomi
+
 ### 25.11.2023
 
 At some point (quite suddenly), we had to move out of the apartment that had a yard. We stayed in a hotel for a few days to find housing.
@@ -443,6 +481,7 @@ The hotel was inexpensive but nice. I liked it there. We stayed there for a few 
     "/images/2023-11-27-1.jpg|Myata under borocco, 27.11.2023"
 
 >}}
+
 ### 28.11.2023
 
 We left the previous apartment so quickly that we forgot an important part of the water dispenser, so at the hotel I drank water from the shower. You know, I've always liked running water from the tap. A water dispenser is more of a compromise for me.
@@ -450,6 +489,7 @@ We left the previous apartment so quickly that we forgot an important part of th
 {{< gallery 
     "/videos/2023-11-28-1.mp4|Myata drinks from the shower, 28.11.2023"
 >}}
+
 ### 09.12.2023
 
 I always trust the guys, and this time I was not mistaken.
@@ -472,6 +512,7 @@ The area of the new apartment was small, but the bed there was huge, and it even
 {{< gallery 
     "/images/2023-12-09-3.jpg|Myata on the orthopedic mattress, 09.12.2023"
 >}}
+
 ### 23.12.2023
 
 Life was going at a steady pace. In this area, the kids didn't have many places to go for a walk, and they spent a lot of time with me again. I love spending time with them.
@@ -480,6 +521,7 @@ Life was going at a steady pace. In this area, the kids didn't have many places 
     "/videos/2023-12-23-1.mp4|Myata smoothed out, 23.12.2023"
     "/images/2023-12-24-1.jpg|Myata — Christmas wreath, 24.12.2023"
 >}}
+
 ### 30.12.2023
 
 The New Year was approaching. The guys bought some branches and made a wreath out of them themselves. I heard that such a wreath costs thirty lari, but they made it for five. How resourceful they are!
@@ -490,6 +532,7 @@ They bought me a toy that I will love more than all the other toys.
     "/images/2023-12-30-1.jpg|Myata poses against the background of the wreath, 30.12.2023"
     "/images/2023-12-30-2.jpg|Myata plays with her favorite toy, 30.12.2023"
 >}}
+
 ### 17.01.2024
 
 We didn't have time to look back, the weekend flew by.
@@ -502,6 +545,7 @@ Still, how much an Instagram-worthy interior boosts photos. However, that doesn'
     "/images/2024-01-17-2.jpg|Myata in profile like this, 17.01.2024"
     "/images/2024-01-17-3.jpg|Myata in profile like that, 17.01.2024"
 >}}
+
 ### 25.01.2024
 
 We slowly started preparing for the trip to Armenia. Or maybe not just to Armenia. I was scheduled for another rabies vaccination.
@@ -515,6 +559,7 @@ There was still time before departure, and I was catching and living every momen
     "/videos/2024-01-28-1.mp4|Playful Myata, 28.01.2024"
 >}}
 ## Diagnosis – Lymphoma
+
 ### 02.02.2024
 
 This is my diary, so I would like to be candid and share a sad story that happened to me.
@@ -537,6 +582,7 @@ At first, Sasha and Vita took the tumor and took it for examination. It was urge
     "/images/2024-02-02-3.jpg|Myata's lymphoma, 02.02.2024"
 
 >}}
+
 ### 03.02.2024
 I needed to be monitored at first so that I wouldn't accidentally fall out of bed, as I couldn't manage myself properly.
 
@@ -554,6 +600,7 @@ My caregivers were very worried about me, watching over me all night to ensure I
     "/images/2024-02-03-2.jpg|Myata is lying dangerously, 03.02.2024"
     "/videos/2024-02-03-1.mp4|Myata is lying more safely, 03.02.2024"
 >}} 
+
 ### 05.02.2024
 
 Sasha published some details about my surgery on his channel:
@@ -590,6 +637,7 @@ Sasha published some details about my surgery on his channel:
 
 Unfortunately, later our fears were confirmed, and the examination of the tumor showed that it was malignant. I was diagnosed with **Large Cell Lymphoma** (in short). I thought that, probably, with such a diagnosis, they would put me to sleep.
 ## Chemotherapy
+
 ### 08.02.2024
 
 Fortunately, I won't be put to sleep. Meow.
@@ -605,6 +653,7 @@ In an exceptional case — about two years. And without treatment — just two w
 {{< gallery 
     "/images/2024-02-08-1.jpg|Myata saves energy, 08.02.2024|wide"
 >}}
+
 ### 11.02.2024
 
 After the surgery, I lost weight. I seem to have become slimmer. But in the future, we will still fight for this weight, because I will lose even more.
@@ -618,6 +667,7 @@ Sasha bought the necessary medications, and Grigory started therapy according to
 This protocol involves **19 weeks** of therapy. Every three weeks, one had to take a blood test and administer a specific medication. At home, one had to take pills.
 
 The medications are human. Not in the sense of humane, but in the sense that these same drugs are used by people to fight cancer.
+
 ### 25.02.2024
 
 Well, I recovered from the shock and got back to my old ways — started goofing around again.
@@ -632,6 +682,7 @@ Well, I recovered from the shock and got back to my old ways — started goofing
 And I didn't care that there were no oncologists in Armenia, and we were going there soon. Sasha was dealing with those questions.
 
 But Sasha still couldn't find an oncologist after calling all the clinics he could find, so it was decided to look for a doctor on-site when we got there. Grigory agreed to help us with therapy remotely.
+
 ### 28.02.2024
 
 Meanwhile, the moment had come for us to head to Yerevan.
@@ -651,6 +702,7 @@ And I also described Vita.
     "/images/2024-02-28-5.jpg|The mountains of Armenia, 28.02.2024"
 >}}
 ## Yerevan
+
 ### 01.03.2024
 
 So. Now we live in Armenia. To be more precise, in Yerevan. I’ll let you in on a secret: at first, the guys wanted to live in Dilijan, but my everyday life had to be mixed with regular chemotherapy. So we needed the capital. The first thing the guys explored upon arriving in Yerevan was not tourist routes, but local veterinary clinics. It turned out to be not so simple.
@@ -662,6 +714,7 @@ In one of the clinics, we got the green light. First, Grigory consulted the vete
 {{< gallery 
     "/images/2024-03-01-1.jpg|Myata and Vita at the clinic on Komitas Street, 01.03.2024"
 >}}
+
 ### 03.03.2024
 
 I felt very unstable. Sometimes very good, sometimes very bad.
@@ -676,6 +729,7 @@ And yes, my new water bowl is visible in the photo, which I haven't told you abo
     "/images/2024-03-03-1.jpg|Myata weakened, 03.03.2024"
     "/images/2024-03-03-2.jpg|Myata's buffet and new water bowl, 03.03.2024"
 >}}
+
 ### 05.03.2024
 
 However, Sasha and Vita quickly found a new place to live (something between an apartment and a private house), and we settled in there for six months.
@@ -710,6 +764,7 @@ Here’s what Sasha wrote about it:
 > I won't be able to administer the next medication myself. It is quite toxic and could harm Myata if, for example, I miss the vein.
 >
 > A little later, I will try to show our treatment journal. I record everything in a Google spreadsheet.
+
 ### 08.03.2024
 
 If we set aside the treatment history, everything was very good! It seems this was the coziest place we lived in. The previous apartment was also very beautiful and somewhat similar to this one, but it was smaller and far from the center. And this one is not. I didn't need the center, but the guys were happy.
@@ -718,6 +773,7 @@ If we set aside the treatment history, everything was very good! It seems this w
     "/images/2024-03-08-1.jpg|Myata and flowers, 08.03.2024"
     "/images/2024-03-08-2.jpg|Myata looks at the flowers, 08.03.2024"
 >}}
+
 ### 17.03.2024
 
 The guys bought a camera again in Georgia. There was an unpleasant story in one of the apartments, and Sasha set up the camera to ensure safety.
@@ -729,6 +785,7 @@ This is the video where I meet them.
 {{< gallery 
     "/videos/2024-03-17-1.mp4|Myata meets the guys, 17.03.2024|wide"
 >}}
+
 ### 26.03.2024
 
 My life has more or less stabilized. Only the mustache from chemotherapy has started to wobble. It seems like they are beginning to fall out.
@@ -736,6 +793,7 @@ My life has more or less stabilized. Only the mustache from chemotherapy has sta
 {{< gallery 
     "/videos/2024-03-26-1.mp4|Myata is washing, 26.03.2024"
 >}}
+
 ### 10.04.2024
 
 In Yerevan, I spent almost the entire summer on the windowsill.
@@ -748,6 +806,7 @@ And remember, I wrote that absolutely everyone notices my beautiful eyes when th
     "/images/2024-03-30-1.jpg|Minty eyes of Myata 30.03.2024"
     "/videos/2024-04-10-1.mp4|Myata on the windowsill, 10.04.2024"
 >}}
+
 ### 13.04.2024
 
 I started to get in shape and I have the strength and desire to play. I love playing with hair ties. Guests should not leave them unattended.
@@ -755,6 +814,7 @@ I started to get in shape and I have the strength and desire to play. I love pla
 {{< gallery 
     "/videos/2024-04-13-1.mp4|Myata is frolicking, 13.04.2024|wide"
 >}}
+
 ### 06.05.2024
 
 Chemotherapy has become a routine. It took longer to get to the department we chose, but there was no one there, and I was very calm, almost not stressed.
@@ -766,6 +826,7 @@ In any case, these guys were just masters at placing my catheters. Believe me, I
 {{< gallery 
     "/images/2024-05-06-1.jpg|Myata with Ella and Musheg in the department, 06.05.2024"
 >}}
+
 ### 25.05.2024
 
 In Yerevan, I regularly went for walks. The street where we lived was very quiet. One day I managed to walk very far with Vita — a whole four houses!
@@ -778,6 +839,7 @@ And yes, this time I didn't catch any fleas.
     "/images/2024-05-25-1.jpg|Myata in the yard, 25.05.2024"
 >}}
 ## Remission
+
 ### 24.06.2024
 
 I was in the 18th week of chemotherapy. A total of 19 were planned.
@@ -788,6 +850,7 @@ It seems that I responded well to the treatment, and at least I did not have a r
     "/images/2024-06-24-1.jpg|Myata and tired Sasha, 24.06.2024"
     "/images/2024-06-25-1.jpg|Myata happy and full of strength, 25.06.2024"
 >}}
+
 ### 01.07.2024
 
 And here it is — the Monday when the **"Madison Wisconsin Protocol"** ends. This is the last day of chemotherapy.
@@ -801,6 +864,7 @@ And here it is — the Monday when the **"Madison Wisconsin Protocol"** ends. Th
 Sasha kept a real journal of all my visits, injections, and tests. If you are suddenly interested in reviewing all of this, here is a **🔗 [link to the Google Drive spreadsheet](https://docs.google.com/spreadsheets/d/1KUDDi2swJQYGDxLFtdxdZImr_HCJlWBF4N0mOtpqvaI/edit?usp=sharing)**. It includes the medications and dosages.
 
 Over these 19 weeks, I had more than 150 different procedures, from pills to IVs. It was very exciting and long. Just during my time in Yerevan, we spent about **$1500** on me.
+
 ### 05.08.2024
 
 I stopped drinking from the modern smart water bowl. At first, I drank, but I generally prefer when the water bowl has a tap. But this one didn't have it.
@@ -812,6 +876,7 @@ But it wasn't necessary to do that very often. During this time, I was eating we
 {{< gallery 
     "/videos/2024-08-05-1.mp4|Myata at Ella and Musheg's department, 05.08.2024"
 >}}
+
 ### 10.08.2024
 
 A couple of times I felt critically bad even after chemotherapy, but Vita and Sasha always came to the rescue. Sometimes, to stabilize my condition, they administered saline. Once, we even went to the clinic at night.
@@ -819,6 +884,7 @@ A couple of times I felt critically bad even after chemotherapy, but Vita and Sa
 {{< gallery 
     "/images/2024-08-10-1.jpg|Myata is outraged by the situation, 10.08.2024" 
 >}}
+
 ### 16.08.2024
 
 Vita's mom came to visit us and brought an old camera at Vita's request.
@@ -830,6 +896,7 @@ In addition, she started to process the photos in a clever way, creating filters
 {{< gallery 
     "/images/2024-08-16-1.jpg|Myata and an exclusive filter, 16.08.2024" 
 >}}
+
 ### 31.08.2024
 
 I am gathering the last rays of the Yerevan sun. The last not because autumn has arrived there, but because soon it will be time for us to return to Tbilisi.
@@ -844,6 +911,7 @@ Note the number of my mustaches. Unfortunately, they have almost all fallen out 
 
 
 <!-- cutoff of the last text edit (without alt caption) -->
+
 ### 06.09.2024 
 
 The day has come when we leave Yerevan and Armenia. I am sincerely grateful to Ashkhen and Aik for such a cozy apartment with a yard. I am sincerely grateful to Ella and Musheg for the treatment. This period for me was both the most anxious and the most beloved, because the air was filled with love.
@@ -855,7 +923,9 @@ Before leaving, we stayed overnight in the tiniest hostel one could possibly ima
     "/images/2024-09-06-2.jpg|Myata and Vita in the tiniest hostel, 06.09.2024" 
     "/images/2024-09-06-3.jpg|Vita's illustration about returning, 06.09.2024" 
 >}}
-## Mtatsminda
+
+## Mtatsminda str.
+
 ### 20.09.2024
 
 And here I have been living in Georgia for some time.
@@ -867,6 +937,7 @@ Also, in Yerevan, I got a new water dispenser. Here I am drinking from it in the
  {{< gallery 
     "/videos/2024-09-20-1.mp4|Myata is drinking water, 20.09.2024|wide" 
 >}}
+
 ### 21.09.2024
 
 In the co-living, I could visit neighbors, run up and down the stairs, and hide in such a way that everyone in the house would look for me.
@@ -881,6 +952,7 @@ I see the joy in Sasha's and Vita's eyes for each day spent with me. Here, in th
     "/videos/2024-09-21-1.mp4|Myata plays with a mouse, 21.09.2024"
     "/videos/2024-09-25-1.mp4|Myata is being brushed, 25.09.2024"
 >}}
+
 ### 10.08.2024
 
 I enjoyed living in the co-living space. I really loved our neighbor Zhenya and regularly visited her. I also really liked the wooden baseboards, which I could sometimes sharpen my claws on when no one was watching.
@@ -899,6 +971,7 @@ In the co-living space, I sometimes stole sausage from the residents. My guys ar
     "/images/2024-10-08-5.jpg|You can never have too many of Myata's eyes #5, 10.08.2024" 
 
 >}}
+
 ### 19.10.2024
 
 Sasha and Vita could now go somewhere, leaving me with the responsible tenants.
@@ -911,6 +984,7 @@ For example, they went to the sea, and I stayed at home. They asked Andrey to lo
     "/images/2024-10-19-1.jpg|Myata is deep in thought, 19.10.2024" 
 
 >}}
+
 ### 20.10.2024
 
 In the co-living, there was a dog named Rochelle. She stole poop from my toilet. I was shocked. I wanted to tell the guys, but they were away. Then I remembered that we have a camera installed.
@@ -919,6 +993,7 @@ In the co-living, there was a dog named Rochelle. She stole poop from my toilet.
     "/videos/2024-10-24-1.mp4|Myata caught Rochelle, 24.10.2024" 
     "/images/2024-10-24-2.jpg|Rochelle, 24.10.2024" 
 >}}
+
 ### 24.10.2024
 
 On this day, I visited Zhenya, she was drawing something, and I had to distract her a little. Zhenya, of course, petted me and let me stay with her.
@@ -927,6 +1002,7 @@ On this day, I visited Zhenya, she was drawing something, and I had to distract 
     "/videos/2024-10-24-2.mp4|Zhenya pets Myata, 24.10.2024" 
     "/images/2024-10-24-1.jpg|Myata at Zhenya watching her draw, 24.10.2024" 
 >}}
+
 ### 31.10.2024
 
 I stood up for my rights at the local level, and I started to walk in the yard.
@@ -942,6 +1018,7 @@ Although the yard is closed, I needed to be watched over. There was a way out of
 {{< gallery 
     "/videos/2024-10-31-1.mp4|Myata met a guest, 31.10.2024|wide" 
 >}}
+
 ### 23.11.2024
 
 The sunny days in Tbilisi were becoming fewer — drizzles, coolness. But still, sometimes the sun shines.
@@ -957,6 +1034,7 @@ I worry so much about those who have no home and caring friends.
 {{< gallery 
     "/images/2024-11-23-1.jpg|Myata and a sunbeam, 23.11.2024" 
 >}}
+
 ### 19.12.2024
 
 Recently, I felt unwell, and on that day I was taken to the clinic. There it turned out that I had very low hemoglobin. Doctor Grigory said that I urgently needed a blood transfusion because the situation was very critical.
@@ -981,6 +1059,7 @@ Twix heroically donated blood and left, while I had a transfusion all night. So 
 
 Of course, my health did not recover immediately; later I had to go back to the clinic. There was a suspicion that it was a relapse of lymphoma. But everything turned out fine.
 ## Year in Remission
+
 ### 16.01.2025
 
 Recently, I stumbled upon a blog on Instagram by a girl named [Maro](https://www.instagram.com/maromikoyan), who was diagnosed with stomach cancer.
@@ -1011,6 +1090,7 @@ Sometimes it seems that I am the healthiest cat in the Universe.
     "/images/2025-01-16-1.jpg|Charming Myata, 16.01.2025" 
     "/videos/2025-01-16-1.mp4|Myata – the battle frog, 16.01.2025" 
 >}}
+
 ### 24.01.2025
 
 And again, the hospital chronicles, because today I got vaccinated. Partly, this necessity is dictated by my ✨European✨ certificate, which was issued to me as a holder of antibodies to rabies.
@@ -1039,6 +1119,7 @@ And in the evening, I played with Rochelle.
 {{< gallery 
     "/videos/2025-01-24-1.mp4|Myata plays with Rochelle, 24.01.2025" 
 >}}
+
 ### 26.02.2025
 
 I moved in with Sasha to a new apartment. Sasha and Vita broke up.
@@ -1050,6 +1131,7 @@ You know, the landlord was initially against having a cat, but in the end, Sasha
 {{< gallery 
     "/images/2025-02-26-1.jpg|Myata with reading Sasha, 26.02.2025|wide" 
 >}}
+
 ### 05.03.2025
 
 Sasha sometimes feels sad, and I support him. It is getting warmer and warmer outside.
@@ -1061,6 +1143,7 @@ Knock on wood, I feel great!
 {{< gallery 
     "/images/2025-03-05-1.jpg|Myata is sleeping on my lap, 05.03.2025|wide" 
 >}}
+
 ### 20.03.2025
 
 Recently, I helped Sasha with his work. Everything is different for him now, a different life, a different project, a different team he is working with. Everything is new except for me. It must be hard to start something.
@@ -1070,6 +1153,7 @@ Well, I am behaving very well. I am a clever girl 💗
 {{< gallery 
     "/images/2025-03-20-1.jpg|Myata helps Sasha with work, 20.03.2025" 
 >}}
+
 ### 12.04.2025
 
 Today I recorded my purring on Sasha's studio microphone.
@@ -1077,6 +1161,7 @@ Today I recorded my purring on Sasha's studio microphone.
 He was recording something, some songs, and I wanted to as well. I present to you my original ASMR.
 
 {{< audio src="/audio/asmr.mp3" >}}
+
 ### 23.04.2025
 
 Today I was at the clinic. You might be wondering what happened this time... But it was a scheduled abdominal ultrasound.
@@ -1091,6 +1176,7 @@ However, I am concerned about my urogenital system, and I will probably have to 
     "/images/2025-04-23-1.jpg|Myata at a scheduled appointment with Grigory, 23.04.2025" 
 >}}
 ## Mziuri
+
 ### 19.05.2025
 
 At some point, we moved into new apartments again. Sasha was bored living alone, so he rented a room with other cool guys.
@@ -1103,6 +1189,7 @@ I am happy. The new house has a lot of space, and the main thing is that it has 
     "/videos/2025-05-19-1.mp4|Myata and the new water dispenser, 19.05.2025" 
     "/videos/2025-05-22-1.mp4|Myata is playing fiercely, 22.05.2025" 
 >}}
+
 ### 25.05.2025
 
 I am a traveler!
@@ -1136,6 +1223,7 @@ That's me, a nomad.
 {{< gallery
     "/images/2025-05-25-1.jpg|Myata in the sunlight, 25.05.2025|wide" 
 >}}
+
 ### 13.06.2025
 
 It seems to me that this story will surprise you very much. But it looks like someone decided that if I got along with a Pomeranian, then I can be given any nonsense (literally).
@@ -1151,6 +1239,7 @@ The guys are looking for a new home for her, but for now she is living with us. 
 {{< gallery
     "/images/2025-06-16-1.jpg|Myata and Mzia, 13.06.2025|wide" 
 >}}
+
 ### 21.06.2025
 
 No, just look at what Sasha has done.
@@ -1159,6 +1248,7 @@ No, just look at what Sasha has done.
     "/images/2025-06-21-1.jpg|Sasha Charkoal, 21.06.2025" 
 >}}
 ## Teeth
+
 ### 23.07.2025
 
 Next week (July 29), I have an unpleasant procedure ahead of me: I will be sent for oral cavity sanitation — normally speaking, this is dental treatment.
@@ -1173,6 +1263,7 @@ I haven't been able to eat normally for several weeks, I keep shaking my head be
 >}}
 
 And recently, I was treated for parasites because someone missed the scheduled deworming. But now everything is fine with that.
+
 ### 29.07.2025
 
 Today, I didn't have the sanitation done as we expected. Today was just an examination, during which, among other things, it turned out that two of my teeth had disappeared from my mouth. This is called resorption.
@@ -1188,6 +1279,7 @@ On the same day, I will undergo another very exciting procedure — they will ta
 {{< gallery
     "/images/2025-07-29-1.jpg|Sanitation appointment, 29.07.2025|wide" 
 >}}
+
 ### 10.08.2025
 
 Here I am sitting with Sasha in the cat waiting room. Yes, there is one in this clinic.
@@ -1215,6 +1307,7 @@ The diagram shows which teeth I have lost.
 {{< gallery
     "/images/2025-08-10-2.jpg|Schematic representation of Myata's jaw, 10.08.2025|wide" 
 >}}
+
 ### 21.09.2025
 
 We were promised that the stitches would dissolve, but at some point, I started to feel like something was bothering me in my mouth. I tried to solve this problem myself, but in the end, I just scratched my cheek. Sasha saw this and took me to the doctor. He removed the remnants of the stitches that were causing discomfort.
@@ -1226,6 +1319,7 @@ In the photo, my stitches have already been removed, but for a while, this wound
     "/images/2025-09-21-1.jpg|Myata's wound, 21.09.2025" 
     "/images/2025-09-25-1.jpg|The wound has healed, 25.09.2025" 
 >}}
+
 ### 28.09.2025
 
 Summer has ended, and autumn has already been underway for more than a day. It's not hot at all. Some people are very happy about this, but I do not share their joy. I share their warmth. For this, when it gets chilly, I prefer to lie on someone.
@@ -1234,6 +1328,7 @@ Summer has ended, and autumn has already been underway for more than a day. It's
     "/videos/2025-09-28-1.mp4|Myata came to warm up on the knees, 28.09.2025" 
 >}}
 ## Guests
+
 ### 02.10.2025 
 
 One day our neighbors brought us a strange bag. It turned out to be a bag with two cats. They hid them from their landlord. Amazing. They sat silently for almost an hour, making hardly any sound. I had to examine the suitcase to understand who was there.
@@ -1245,6 +1340,7 @@ One day our neighbors brought us a strange bag. It turned out to be a bag with t
 {{< gallery
     "/images/2025-10-02-1.jpg|Myata's paw, 02.10.2025|wide" 
 >}}
+
 ### 04.10.2025
 
 Once I met a cat named Plotva. He is a very beautiful cat who will later move to Munich. His guardians Volodya and Nelya wanted to leave him with us for a few days while they traveled. But he was so stressed that they decided it would be better for someone to look after him at their home.
@@ -1255,17 +1351,19 @@ Strange. I didn't hurt him. On the contrary, I was curious and was set on becomi
     "/images/2025-10-04-1.jpg|Myata looks at Plotva (find him), 04.10.2025" 
     "/images/2025-10-04-2.jpg|Myata studies the guests' shoes, 04.10.2025" 
 >}}
-## Sharpener
+## Cat scratcher
+
 ### 05.10.2025
 
-Once Sasha saw a super sharpener in a cat-friendly café. And he immediately ordered me one just like it. A girl came and installed it. I was so happy. It's the best sharpener I've ever seen in my life (not counting the wooden shelf from IKEA).
+Once Sasha saw a super cat scratcher in a cat-friendly café. And he immediately ordered me one just like it. A girl came and installed it. I was so happy. It's the best cat scratcher I've ever seen in my life (not counting the wooden shelf from IKEA).
 
 {{< gallery
-    "/images/2025-10-05-1.jpg|Moment before the sharpener installation, 05.10.2025" 
-    "/videos/2025-10-05-1.mp4|Myata tested the new sharpener, 05.10.2025" 
+    "/images/2025-10-05-1.jpg|Moment before the cat scratcher installation, 05.10.2025" 
+    "/videos/2025-10-05-1.mp4|Myata tested the new cat scratcher, 05.10.2025" 
     "/images/2025-10-10-1.jpg|Retro Myata, 11.10.2025" 
-    "/videos/2025-10-11-1.mp4|Myata jumps on the sharpener, 11.10.2025" 
+    "/videos/2025-10-11-1.mp4|Myata jumps on the cat scratcher, 11.10.2025" 
 >}}
+
 ### 21.10.2025
 
 Well, I must admit, I feel good. It's somewhat of a prime era after all the treatments. The peak of excellent well-being. I’m not nauseous, I eat regularly, sleep, play, and go to the bathroom.
@@ -1279,6 +1377,7 @@ Also, the guys tricked me and put orange peels in the sink. They are certainly q
     "/images/2025-10-21-2.jpg|Myata close-up, 21.10.2025" 
 >}}
 ## Christmas Tree
+
 ### 15.11.2025
 
 The New Year is approaching! Sasha set up the Christmas tree. He decorated it as best as he could with the ornaments that were in the apartment. Did this add to the New Year's mood? I think so. Although some guests said that the tree looks sad. I don't know. I've never had such a big tree. Previously, Sasha only made an installation from pine branches that he collected in the forest.
@@ -1294,6 +1393,7 @@ Also, I received new tail toys from China. If you remember, I already told you t
     "/images/2025-11-15-3.jpg|Our Christmas tree 2025-2026, 15.11.2025"
     "/images/2025-11-15-4.jpg|Myata playing with a tail toy, 15.11.2025" 
 >}}
+
 ### 22.11.2025
 
 I am a happy little cat. I am fed delicious wet food, petted, and played with. I have two scratching posts, 100500 places where I can lie down. I am taken care of not only by Sasha but also by his neighbors Edik and Kolya. I can ask for food first from one, then from the other, and thus eat my fill. This, of course, doesn't always work, but I take advantage of it.
@@ -1312,6 +1412,7 @@ I am a happy little cat. I am fed delicious wet food, petted, and played with. I
     "/images/2025-11-29-1.jpg|Myata in amazement, 29.11.2025"
     "/images/2025-11-29-2.jpg|Contented and groomed Myata, 29.11.2025"
 >}}
+
 ### 19.12.2025
 
 I am glad that things have more or less settled down.
@@ -1320,6 +1421,7 @@ I am glad that things have more or less settled down.
     "/images/2025-12-19-1.jpg|Myata in the sun, 19.12.2025"
     "/images/2025-12-19-2.jpg|Myata in the crib, 19.12.2025"
 >}}
+
 ### 23.12.2025
 
 Sasha saw a rainbow on me and took a photo. And against this background, a thought visited me: 🌈 It turns out that if I am not going to the rainbow, then the rainbow is coming to me (literally).
@@ -1327,6 +1429,7 @@ Sasha saw a rainbow on me and took a photo. And against this background, a thoug
 {{< gallery
     "/images/2025-12-23-1.jpg|Myata and the rainbow, 23.12.2025"
 >}}
+
 ### 31.12.2025
 
 Ready for the New Year. We decided to celebrate it together with Sasha and his new friend Vita.
@@ -1335,6 +1438,7 @@ Ready for the New Year. We decided to celebrate it together with Sasha and his n
     "/images/2025-12-31-1.jpg|Myata in anticipation of the New Year, 31.12.2025|wide"
 >}}
 ## Happy New Year!
+
 ### 01.01.2026
 
 Well, the year 2025 has come to an end — it was an interesting year and not as difficult as I expected. And yes, it's not to say that I love or celebrate the New Year, I'm a cat, remember?
@@ -1352,6 +1456,7 @@ Meow to everyone! 😽
 {{< gallery
     "/images/2026-01-01-1.jpg|Myata continues to be a cat in the new year as promised, 01.01.2026|wide"
 >}}
+
 ### 31.01.2026
 
 January is coming to an end — time to put away the Christmas tree 🌲 in the storage, right?
@@ -1368,6 +1473,7 @@ If only it were the same with hearts.
     "/images/2026-01-31-1.jpg|Myata against the backdrop of the Christmas tree, 31.01.2026"
 >}}
 ## Two Years in Remission
+
 ### 02.02.2026
 
 🗓️ February. For a couple of years now, this month has been a starting point in my calendar.
@@ -1387,8 +1493,9 @@ If only it were the same with hearts.
 In the video, I am playing with a new toy that Plotva left for me due to her departure to Munich.
 
 {{< gallery
-    "/videos/2026-02-02-1.mp4|Myata plays with Plotva's sharpener, 02.02.2026"
+    "/videos/2026-02-02-1.mp4|Myata plays with Plotva's cat scratcher, 02.02.2026"
 >}}
+
 ### 07.02.2026
 
 All the doctors say that I need to have my gallbladder removed as soon as possible. Grigory said he could perform the surgery on me at the Buneba clinic using the classical method, where I would be cut open under anesthesia and all the work would be done.
@@ -1400,6 +1507,7 @@ Today Sasha took me there for a consultation. He doesn't want to make hasty deci
 {{< gallery
     "/images/2026-02-07-1.jpg|Myata is waiting for the consultation, 07.02.2026"
 >}}
+
 ### 08.02.2026
 
 No, well Sasha certainly knows how to surprise me. I didn't think you could play with mustaches.
@@ -1408,6 +1516,7 @@ Watch the video with sound.
 {{< gallery
     "/videos/2026-02-08-1.mp4|Music of the Mustaches, 08.02.2026"
 >}}
+
 ### 14.02.2026
 
 Today is Valentine's Day, and I have a surgery scheduled. Sasha brought me to the clinic.
@@ -1419,6 +1528,7 @@ Today is Valentine's Day, and I have a surgery scheduled. Sasha brought me to th
 We already managed to consult with Georgiy Gradusov, who ordered us various tests, including cardiology. I had no contraindications for the surgery. Sasha left me with the doctors.
 
 And then there was some kind of electrical failure, and there was no light for a very long time. As a result, the surgery did not take place, and I was taken home. The surgery was rescheduled for tomorrow, February 15.
+
 ### 15.02.2026
 
 Well then. Entry number two. I hope everything goes as we planned today. I'm very nervous.
@@ -1427,6 +1537,7 @@ Well then. Entry number two. I hope everything goes as we planned today. I'm ver
     "/images/2026-02-15-1.jpg|Myata is waiting for the operation peacefully, 15.02.2026"
 >}}
 ## Death
+
 ### 15.02.2026
 
 Hello, this is Sasha.
@@ -1438,6 +1549,7 @@ I loved her very much and will continue to love her. She will remain in my heart
 The doctor called me when I was at the café near Tsminda Sameba, waiting for a call with news that the surgery had gone well, but he called with different news. I arrived at the clinic, and they told me what had happened.
 
 I was allowed to see Myata; she was lying on the operating table, wrapped in a white blanket, and seemed to be peacefully sleeping, gently closing her eyes. She looked relaxed and not at all like she was dead. I kissed her one last time.
+
 ### 16.02.2026
 
 I have decided to bury Myata at the pet cemetery. Cremation turned out to be complicated, and the option offered through the government institution sounded quite dubious.
@@ -1481,12 +1593,15 @@ Goodbye, Myata.
 {{< gallery
     "/images/2026-02-16-1.jpg|Myata's grave on the first day, 16.02.2026"
 >}}
+
 ### 17.02.2026
 
 Vita visited Myata's grave. She left flowers and her collection stones.
+
 ### 19.02.2026
 
 I have decided to create a memorial project on GitHub. I ordered a special metal plaque made of stainless steel, which will be engraved with Myata's name, her date of death, approximate age, and the possibility to go to this page [https://myata-memorial.github.io/](https://myata-memorial.github.io/).
+
 ### 23.02.2026
 
 Today we finally arranged the grave, installed a plaque. The work is not finished yet, but I will come back to her again tomorrow. It is necessary to return the collectible stones and check the condition of the structure.
@@ -1501,6 +1616,7 @@ Today we finally arranged the grave, installed a plaque. The work is not finishe
 I am finishing this project, and tomorrow it will be possible to say that the main release is completed. This text will be available in English and Georgian.
 
 I plan to make a publication on February 24, 2026, with the final result. If you visit Myata many years later, you will be able to compare the condition of the grave in the first days with the current one (in your time).
+
 ### 24.02.2026
 
 ...
