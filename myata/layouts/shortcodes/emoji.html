@@ -1,0 +1,54 @@
+{{- $name := .Get 0 | lower -}}
+
+{{- $map := dict
+  "paw_prints" "1F43E"
+  "dog" "1F436"
+  "cat" "1F431"
+  "black_cat" "1F408-200D-2B1B"
+  "smile" "1F604"
+  "wink" "1F609"
+  "thinking" "1F914"
+  "cool" "1F60E"
+  "cry" "1F622"
+  "fire" "1F525"
+  "rocket" "1F680"
+  "zap" "26A1"
+  "boom" "1F4A5"
+  "check" "2705"
+  "cross" "274C"
+  "warning" "26A0"
+  "gear" "2699"
+  "hammer" "1F528"
+  "wrench" "1F527"
+  "bug" "1F41B"
+  "lock" "1F512"
+  "key" "1F511"
+  "link" "1F517"
+  "book" "1F4D6"
+  "memo" "1F4DD"
+  "bulb" "1F4A1"
+  "heart" "2764"
+  "black_heart" "1F5A4"
+  "sparkles" "2728"
+  "arrow_right" "27A1"
+  "arrow_left" "2B05"
+  "arrow_up" "2B06"
+  "arrow_down" "2B07"
+}}
+
+{{- $code := index $map $name -}}
+
+{{- if not $code -}}
+  {{- errorf "Emoji not found: %s" $name -}}
+{{- end -}}
+
+{{- $path := printf "openmoji/%s.svg" $code -}}
+{{- $svg := resources.Get $path -}}
+
+{{- if $svg -}}
+  <span class="emoji emoji-{{ $name }}" role="img">
+    {{ $svg.Content | safeHTML }}
+  </span>
+{{- else -}}
+  <span class="emoji emoji-missing">?</span>
+{{- end -}}

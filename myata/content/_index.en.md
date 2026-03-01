@@ -3,7 +3,7 @@ title = 'Memory of the cat Myata'
 +++
 
 >[!WARNING]
-> 🇺🇸 _Machine translation (AI) from Russian._
+> _Machine translation (AI) from Russian._
 
 # Hello, my name is Myata! 🐈‍⬛
 
@@ -1175,6 +1175,16 @@ However, I am concerned about my urogenital system, and I will probably have to 
 {{< gallery 
     "/images/2025-04-23-1.jpg|Myata at a scheduled appointment with Grigory, 23.04.2025" 
 >}}
+
+### 23.04.2025
+
+Sasha flew to Istanbul. While he was away, some wonderful girls were looking after me. You already know Yulia — I’ve told you about her before. But you don’t know Lena yet. She came over, fed me, stroked me, and played with me. She also read a book under a blanket.
+
+{{< gallery 
+    "/videos/2025-05-04-1.mp4|Lena checking whether Myata had pooped, 04.05.2025" 
+    "/videos/2025-05-04-2.mp4|Myata came to sit on her lap, 04.05.2025" 
+>}}
+
 ## Mziuri
 
 ### 19.05.2025
@@ -1619,4 +1629,8 @@ I plan to make a publication on February 24, 2026, with the final result. If you
 
 ### 24.02.2026
 
-...
+I visited Myata. Returned the collectible stones. Laid some flowers. Feeling sad.
+
+{{< gallery
+    "/images/2026-02-24-1.jpg|Decorating Myata’s grave, 24.02.2026"
+>}}

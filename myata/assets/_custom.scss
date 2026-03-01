@@ -1,3 +1,17 @@
+.emoji {
+  display: inline-block;
+  vertical-align: middle;
+  width: 1.2em;
+  height: 1.2em;
+  line-height: 1;
+}
+
+.emoji svg {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
 :root {
   --font-size: 18px;
 }
@@ -55,6 +69,10 @@ article{
 body.emoji-hidden .emoji-toggle__icon {
   filter: saturate(0);
   // background: red;
+}
+
+html body .emoji{
+  font-family: 'Noto Color Emoji', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'EmojiOne Color', sans-serif;
 }
 
 .emoji-toggle__icon {
@@ -137,9 +155,37 @@ nav#TableOfContents ul a:hover{
 }
 
 
-
-nav#TableOfContents ul a[data-active="true"]::after, nav#TableOfContents ul a:hover::after {
-  content: "🐾";
-  display: inline-block;
+nav#TableOfContents ul a{
+  display: inline-block; 
+  position: relative;
 }
+
+nav#TableOfContents ul a[data-active="true"]::after {
+    content: "";
+    display: inline-block;
+    width: 1.4em;
+    height: 1.4em;
+    background-image: url("/emoji/1F43E.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    vertical-align: middle;
+    position: absolute;
+    right: -30px;
+}
+
+@media (hover: hover) {
+  nav#TableOfContents ul a:hover::after {
+    content: "";
+    display: inline-block;
+    width: 1.4em;
+    height: 1.4em;
+    background-image: url("/emoji/1F43E.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    vertical-align: middle;
+    position: absolute;
+    right: -30px;
+  }
+}
+
 

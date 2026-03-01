@@ -1,10 +1,11 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://myata-memorial.github.io/'
 languageCode = 'ru'
 defaultContentLanguage = 'ru'
 defaultContentLanguageInSubdir = false
 title = 'Мята'
 theme = 'book'
 publishDir = '../docs'
+enableRobotsTXT = true
 
 [languages]
 	[languages.ru]
